@@ -200,3 +200,13 @@ footer p {
         font-size: 1.3rem;
     }
 }
+
+.theses {
+    border-bottom: 1px solid var(--color-light);
+    margin-bottom: 1em;
+}
+
+.ul-theses {
+    margin-left: 2em;
+    margin-bottom: 1em;
+}

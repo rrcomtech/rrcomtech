@@ -69,3 +69,15 @@ date: 2025-12-07
         </article>
     </section>
 </section>
+
+<section>
+    <div>
+        <h3 class="theses">Advised Master's Theses</h3>
+        <b>2026</b>
+        <ul class="ul-theses">
+            <li>Johannes Peters: <i>Evaluating Multipath QUIC and TCP over Starlink and Cellular Networks</i></li>
+            <li>Leopold Fuchs: <i>A Measurement-Based Analysis of the Ground Segment in Networked Satellite Systems</i></li>
+            <li>Kevin Klein: <i>Happy Eyeballs Version 3: Implementation, Measurements, and First Insights</i></li>
+        </ul>
+    </div>
+</section>
